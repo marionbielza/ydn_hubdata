@@ -1,0 +1,1 @@
+station_id,timestamp,opc_pm1,opc_pm25,opc_pm10,opc_pm10_max,pms_pm25,temperature,humidity,pressure,rssi,snr,hub_rssi,hub_snr
