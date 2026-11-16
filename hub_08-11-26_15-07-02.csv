@@ -1,1 +1,2 @@
 station_id,timestamp,opc_pm1,opc_pm25,opc_pm10,opc_pm10_max,pms_pm25,temperature,humidity,pressure,rssi,snr,hub_rssi,hub_snr
+3,2026-11-16 13:50:44,0.0,0.2,4.9,38.0,0.00,4.40,66.33,898.9777,-97,5.75,-97.0,5.75
